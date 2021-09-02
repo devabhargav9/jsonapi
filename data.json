@@ -1,0 +1,42 @@
+[
+    {
+      'title': 'Mast & Harbour',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11007314/2020/6/5/605acdc7-6157-48eb-84f0-27e432126c611591355165720-Mast--Harbour-Men-Shirts-4111591355163609-1.jpg',
+      'original_price': '1999',
+      'discounted_price': '1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/mast--harbour/mast--harbour-men-navy-blue--red-regular-fit-checked-casual-shirt/11007314/buy',
+      'sizes': ['S', 'M']
+    },
+    {
+      'title': 'HIGHLANDER',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2006852/2018/4/3/11522753460014-HIGHLANDER-Men-Blue--White-Slim-Fit-Checked-Casual-Shirt-2811522753459810-1.jpg',
+      'original_price': '1999',
+      'discounted_price': '1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/highlander/highlander-men-blue--white-slim-fit-checked-casual-shirt/2006852/buy',
+      'sizes': ['S', 'Xs']
+    },
+    {
+      'title': 'Mast & Harbour',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11007314/2020/6/5/605acdc7-6157-48eb-84f0-27e432126c611591355165720-Mast--Harbour-Men-Shirts-4111591355163609-1.jpg',
+      'original_price': '1999',
+      'discounted_price': '1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/highlander/highlander-men-blue--white-slim-fit-checked-casual-shirt/2006852/buy',
+      'sizes': ['M', 'L']
+    },
+    {
+      'title': 'Mast & Harbour',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11007314/2020/6/5/605acdc7-6157-48eb-84f0-27e432126c611591355165720-Mast--Harbour-Men-Shirts-4111591355163609-1.jpg',
+      'original_price': '1999',
+      'discounted_price': '1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/highlander/highlander-men-blue--white-slim-fit-checked-casual-shirt/2006852/buy',
+      'sizes': ['L']
+    }
+]
