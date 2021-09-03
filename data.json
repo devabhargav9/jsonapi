@@ -2,9 +2,9 @@
     {
       'title': 'Mast & Harbour',
       'subTitle': 'Regular Fit Checked Casual Shirt',
-      'image': 'https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11007314/2020/6/5/605acdc7-6157-48eb-84f0-27e432126c611591355165720-Mast--Harbour-Men-Shirts-4111591355163609-1.jpg',
-      'original_price': '1999',
-      'discounted_price': '1099',
+      'image': 'https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/2/18/5dd2769c-5948-4dc1-b170-f8dc8f1394bd1613626315322-1.jpg',
+      'original_price': 'Rs.2999',
+      'discounted_price': 'Rs.1099',
       'discount_percentage': '45',
       'redirect_url': 'https://www.myntra.com/shirts/mast--harbour/mast--harbour-men-navy-blue--red-regular-fit-checked-casual-shirt/11007314/buy',
       'sizes': ['S', 'M']
@@ -13,8 +13,8 @@
       'title': 'HIGHLANDER',
       'subTitle': 'Regular Fit Checked Casual Shirt',
       'image': 'https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2006852/2018/4/3/11522753460014-HIGHLANDER-Men-Blue--White-Slim-Fit-Checked-Casual-Shirt-2811522753459810-1.jpg',
-      'original_price': '1999',
-      'discounted_price': '1099',
+      'original_price': 'Rs.999',
+      'discounted_price': 'Rs.1099',
       'discount_percentage': '45',
       'redirect_url': 'https://www.myntra.com/shirts/highlander/highlander-men-blue--white-slim-fit-checked-casual-shirt/2006852/buy',
       'sizes': ['S', 'Xs']
@@ -23,8 +23,8 @@
       'title': 'Mast & Harbour',
       'subTitle': 'Regular Fit Checked Casual Shirt',
       'image': 'https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11007314/2020/6/5/605acdc7-6157-48eb-84f0-27e432126c611591355165720-Mast--Harbour-Men-Shirts-4111591355163609-1.jpg',
-      'original_price': '1999',
-      'discounted_price': '1099',
+      'original_price': 'Rs.1999',
+      'discounted_price': 'Rs.1099',
       'discount_percentage': '45',
       'redirect_url': 'https://www.myntra.com/shirts/highlander/highlander-men-blue--white-slim-fit-checked-casual-shirt/2006852/buy',
       'sizes': ['M', 'L']
@@ -33,10 +33,169 @@
       'title': 'Mast & Harbour',
       'subTitle': 'Regular Fit Checked Casual Shirt',
       'image': 'https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11007314/2020/6/5/605acdc7-6157-48eb-84f0-27e432126c611591355165720-Mast--Harbour-Men-Shirts-4111591355163609-1.jpg',
-      'original_price': '1999',
-      'discounted_price': '1099',
+      'original_price': 'Rs.5999',
+      'discounted_price': 'Rs.1099',
       'discount_percentage': '45',
       'redirect_url': 'https://www.myntra.com/shirts/highlander/highlander-men-blue--white-slim-fit-checked-casual-shirt/2006852/buy',
       'sizes': ['L']
+    },
+    {
+      'title': 'Mast & Harbour',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11007314/2020/6/5/605acdc7-6157-48eb-84f0-27e432126c611591355165720-Mast--Harbour-Men-Shirts-4111591355163609-1.jpg',
+      'original_price': 'Rs.3999',
+      'discounted_price': 'Rs.1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/highlander/highlander-men-blue--white-slim-fit-checked-casual-shirt/2006852/buy',
+      'sizes': ['M', 'L']
+    },{
+      'title': 'Mast & Harbour',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/2/18/5dd2769c-5948-4dc1-b170-f8dc8f1394bd1613626315322-1.jpg',
+      'original_price': 'Rs.1999',
+      'discounted_price': 'Rs.1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/mast--harbour/mast--harbour-men-navy-blue--red-regular-fit-checked-casual-shirt/11007314/buy',
+      'sizes': ['S', 'M']
+    },
+    {
+      'title': 'HIGHLANDER',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2006852/2018/4/3/11522753460014-HIGHLANDER-Men-Blue--White-Slim-Fit-Checked-Casual-Shirt-2811522753459810-1.jpg',
+      'original_price': 'Rs.4999',
+      'discounted_price': 'Rs.1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/highlander/highlander-men-blue--white-slim-fit-checked-casual-shirt/2006852/buy',
+      'sizes': ['S', 'Xs']
+    },
+    {
+      'title': 'Mast & Harbour',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/2/18/5dd2769c-5948-4dc1-b170-f8dc8f1394bd1613626315322-1.jpg',
+      'original_price': 'Rs.3999',
+      'discounted_price': 'Rs.1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/mast--harbour/mast--harbour-men-navy-blue--red-regular-fit-checked-casual-shirt/11007314/buy',
+      'sizes': ['S', 'M']
+    },
+    {
+      'title': 'HIGHLANDER',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2006852/2018/4/3/11522753460014-HIGHLANDER-Men-Blue--White-Slim-Fit-Checked-Casual-Shirt-2811522753459810-1.jpg',
+      'original_price': 'Rs.4999',
+      'discounted_price': 'Rs.1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/highlander/highlander-men-blue--white-slim-fit-checked-casual-shirt/2006852/buy',
+      'sizes': ['S', 'Xs']
+    },
+    {
+      'title': 'Mast & Harbour',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/2/18/5dd2769c-5948-4dc1-b170-f8dc8f1394bd1613626315322-1.jpg',
+      'original_price': 'Rs.1299',
+      'discounted_price': 'Rs.1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/mast--harbour/mast--harbour-men-navy-blue--red-regular-fit-checked-casual-shirt/11007314/buy',
+      'sizes': ['S', 'M']
+    },
+    {
+      'title': 'HIGHLANDER',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2006852/2018/4/3/11522753460014-HIGHLANDER-Men-Blue--White-Slim-Fit-Checked-Casual-Shirt-2811522753459810-1.jpg',
+      'original_price': 'Rs.1999',
+      'discounted_price': 'Rs.1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/highlander/highlander-men-blue--white-slim-fit-checked-casual-shirt/2006852/buy',
+      'sizes': ['S', 'Xs']
+    },
+    {
+      'title': 'Mast & Harbour',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/2/18/5dd2769c-5948-4dc1-b170-f8dc8f1394bd1613626315322-1.jpg',
+      'original_price': 'Rs.999',
+      'discounted_price': 'Rs.1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/mast--harbour/mast--harbour-men-navy-blue--red-regular-fit-checked-casual-shirt/11007314/buy',
+      'sizes': ['S', 'M']
+    },
+    {
+      'title': 'HIGHLANDER',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2006852/2018/4/3/11522753460014-HIGHLANDER-Men-Blue--White-Slim-Fit-Checked-Casual-Shirt-2811522753459810-1.jpg',
+      'original_price': 'Rs.2599',
+      'discounted_price': 'Rs.1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/highlander/highlander-men-blue--white-slim-fit-checked-casual-shirt/2006852/buy',
+      'sizes': ['S', 'Xs']
+    },
+    {
+      'title': 'Mast & Harbour',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/2/18/5dd2769c-5948-4dc1-b170-f8dc8f1394bd1613626315322-1.jpg',
+      'original_price': 'Rs.999',
+      'discounted_price': 'Rs.1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/mast--harbour/mast--harbour-men-navy-blue--red-regular-fit-checked-casual-shirt/11007314/buy',
+      'sizes': ['S', 'M']
+    },
+    {
+      'title': 'HIGHLANDER',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2006852/2018/4/3/11522753460014-HIGHLANDER-Men-Blue--White-Slim-Fit-Checked-Casual-Shirt-2811522753459810-1.jpg',
+      'original_price': 'Rs.1599',
+      'discounted_price': 'Rs.1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/highlander/highlander-men-blue--white-slim-fit-checked-casual-shirt/2006852/buy',
+      'sizes': ['S', 'Xs']
+    },
+    {
+      'title': 'Mast & Harbour',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/2/18/5dd2769c-5948-4dc1-b170-f8dc8f1394bd1613626315322-1.jpg',
+      'original_price': 'Rs.1899',
+      'discounted_price': 'Rs.1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/mast--harbour/mast--harbour-men-navy-blue--red-regular-fit-checked-casual-shirt/11007314/buy',
+      'sizes': ['S', 'M']
+    },
+    {
+      'title': 'HIGHLANDER',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2006852/2018/4/3/11522753460014-HIGHLANDER-Men-Blue--White-Slim-Fit-Checked-Casual-Shirt-2811522753459810-1.jpg',
+      'original_price': 'Rs.1999',
+      'discounted_price': 'Rs.1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/highlander/highlander-men-blue--white-slim-fit-checked-casual-shirt/2006852/buy',
+      'sizes': ['S', 'Xs']
+    },
+    {
+      'title': 'Mast & Harbour',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/2/18/5dd2769c-5948-4dc1-b170-f8dc8f1394bd1613626315322-1.jpg',
+      'original_price': 'Rs.1999',
+      'discounted_price': 'Rs.1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/mast--harbour/mast--harbour-men-navy-blue--red-regular-fit-checked-casual-shirt/11007314/buy',
+      'sizes': ['S', 'M']
+    },
+    {
+      'title': 'HIGHLANDER',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2006852/2018/4/3/11522753460014-HIGHLANDER-Men-Blue--White-Slim-Fit-Checked-Casual-Shirt-2811522753459810-1.jpg',
+      'original_price': 'Rs.2999',
+      'discounted_price': 'Rs.1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/highlander/highlander-men-blue--white-slim-fit-checked-casual-shirt/2006852/buy',
+      'sizes': ['S', 'Xs']
+    },
+    {
+      'title': 'Mast & Harbour',
+      'subTitle': 'Regular Fit Checked Casual Shirt',
+      'image': 'https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/2/18/5dd2769c-5948-4dc1-b170-f8dc8f1394bd1613626315322-1.jpg',
+      'original_price': 'Rs.2399',
+      'discounted_price': 'Rs.1099',
+      'discount_percentage': '45',
+      'redirect_url': 'https://www.myntra.com/shirts/mast--harbour/mast--harbour-men-navy-blue--red-regular-fit-checked-casual-shirt/11007314/buy',
+      'sizes': ['S', 'M']
     }
-]
+  ]
